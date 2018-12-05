@@ -13,8 +13,8 @@ Danielle Osdon
 This project is an application that showcases a recipe for a brownie using elements of jQuery.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://dfo16.github.io/lesson7_jquery/
+    
 
 ### Lessons Learned in the Assignment:
 1. I learned that children() method in jQuery selects the child elements of each element matched by the main selector.
