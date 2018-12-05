@@ -1,0 +1,4 @@
+The features I added are a fast toggle animation just to see what it looks like.
+I also changed the back ground of the headers to be white when untouched and black
+when it is hovered over it. The next() traversal method is used in conjunction with
+the animation method. 
